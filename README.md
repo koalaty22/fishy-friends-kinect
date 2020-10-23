@@ -1,5 +1,5 @@
 # fishy-friends-kinect
-These projects were developed for a University project (DXH602 - Embodied Interactions)
+These processing sketches were developed for a University project (DXH602 - Embodied Interactions)
 This Hi-Fi prototype is a proof of concept.
 The Kinect version of the code requies a Kinect vr1, Processing vr 3.5.3 and SimpleOpenNI to use.
 THe normal version called fish_prototype_complete only needs Processing (any version is fine).
