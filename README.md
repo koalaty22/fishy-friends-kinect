@@ -9,3 +9,5 @@ These early iterations where a good launchpad into developing the future prototy
 https://editor.p5js.org/n10267107/sketches/4LjZZi__r
 https://editor.p5js.org/n10267107/sketches/1nVGDGI9G
 https://editor.p5js.org/n10267107/sketches/fno_izvYX
+
+Go into the test_prototype branch to view some early versions of the prototype.
